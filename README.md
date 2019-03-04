@@ -16,7 +16,7 @@ Optimization Font for ubuntu 18.04+/mint  19.
 
 ## 改进事项
 
-* 使用freeType2 2019-02-23 版本基础做调整
+* 使用 freeType2 2019-02-23 版本为基础做渲染调整
 * 以 win1809系统雅黑字体做调整
 * 调整/etc/fonts/font.conf 针对wine等程序做优化调整（不会发虚）
 
@@ -24,10 +24,25 @@ Optimization Font for ubuntu 18.04+/mint  19.
 
 ## 截图
 
+chrome 72
+
+![chrome 72](https://raw.githubusercontent.com/zhangjianying/ubuntuFontOptimization/master/images/chrome.png)
+
+WPS 2016
+![wps](https://raw.githubusercontent.com/zhangjianying/ubuntuFontOptimization/master/images/wps.png)
+
+
+gedit
+![gedit](https://raw.githubusercontent.com/zhangjianying/ubuntuFontOptimization/master/images/gedit.png)
+
+wine nodepad++
+![nodepad](https://raw.githubusercontent.com/zhangjianying/ubuntuFontOptimization/master/images/nodepad.png)
 
 
 
+## 使用方式
 
+ 	使用sudo 执行 install.sh
 
 
 
