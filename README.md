@@ -24,18 +24,17 @@ Optimization Font for ubuntu 18.04+/mint  19.
 
 ## 截图
 
-chrome 72
+### chrome 72
 
 ![chrome 72](https://raw.githubusercontent.com/zhangjianying/ubuntuFontOptimization/master/images/chrome.png)
 
-WPS 2016
+### WPS 2016
 ![wps](https://raw.githubusercontent.com/zhangjianying/ubuntuFontOptimization/master/images/wps.png)
 
-
-gedit
+## gedit
 ![gedit](https://raw.githubusercontent.com/zhangjianying/ubuntuFontOptimization/master/images/gedit.png)
 
-wine nodepad++
+## wine nodepad++
 ![nodepad](https://raw.githubusercontent.com/zhangjianying/ubuntuFontOptimization/master/images/nodepad.png)
 
 
@@ -49,5 +48,5 @@ wine nodepad++
 
 ## 备注
 
-如果侵，请联删
+如侵，请联删
 
